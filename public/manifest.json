@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Using Redux",
+  "name": "Create React App Sampl with Redux",
   "icons": [
     {
       "src": "favicon.ico",

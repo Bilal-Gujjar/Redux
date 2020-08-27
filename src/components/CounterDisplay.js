@@ -8,6 +8,9 @@ function CounterDisplay() {
     return (
         <div>
             CounterDisplay{counter}
+            <hr/>
+            <br/>
+            Add Cart {counter}
         </div>
     )
 }
